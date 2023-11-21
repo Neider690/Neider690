@@ -1,11 +1,11 @@
 ### Neider Polo 👋
 
-
+-------------------------------------------------------------------------------------------
 ### About Me 🔭
 
 Passionate about guitar and football, I dedicate my free time to music and physical activity. As an avid reader, I enjoy exploring various genres, with science fiction being my favorite. Furthermore, my interest in learning is manifested through the constant search for new knowledge and the exploration of fascinating documentaries.
  
-### 💬 Ask me about ...
+### 💬 Ask me about: 
 
 * JavaScript (Node.js).
 * HTML.
@@ -15,9 +15,9 @@ Passionate about guitar and football, I dedicate my free time to music and physi
 * Sequelize.
 * PostgreSQL.
 
-### 📫 How to reach me: ...
+### 📫 How to reach me: 
 
-Linkedin Badge Gmail Badge Instagram Badge
+
 
    
 <!--
