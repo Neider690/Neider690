@@ -17,8 +17,6 @@ Passionate about guitar and football, I dedicate my free time to music and physi
 
 ### 📫 How to reach me: 
 
-
-
    
 <!--
 **Neider690/Neider690** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
